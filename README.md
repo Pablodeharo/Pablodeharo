@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="./1" alt="Mi Banner">
+</div>
 
-<!--
-**Pablodeharo/Pablodeharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Pablo de Haro Pishoudt! 👋
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy un Científico de Datos y especialista en Inteligencia Artificial apasionado por descubrir insights a partir de datos y desarrollar soluciones de IA innovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame
+
+- [LinkedIn]([tu-perfil-de-linkedin](https://www.linkedin.com/in/pablo-de-haro-pishoudt-0871972b6/))
+- [Email](pablodeharo872@gmail.com)
+
