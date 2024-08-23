@@ -6,15 +6,61 @@
 
 Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate about uncovering insights from data and developing innovative AI solutions.
 
+## Featured Projects
+
+[![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
+
+[![Phishing Domain Detector Project](phishing-domain-detector-banner.svg)](https://github.com/Pablodeharo/Phishing-Domain-Detection)
+
+[![Property Price Prediction Project](property-price-prediction-banner.svg)](https://github.com/yourusername/property-price-prediction)
+
 ## 🛠 My Skills
 
-- Languages: Python, SQL
-- Data Science & ML: TensorFlow, PyTorch, scikit-learn, pandas, NumPy
-- Data Visualization: Matplotlib, Seaborn
-- Web Applications: Streamlit, Flask
-- Cloud Platforms: AWS, Google Cloud Platform
-- DevOps & Version Control: Docker, Git
-- Development Environment: Jupyter Notebooks, vscode
+|
+ Category 
+|
+ Skills 
+|
+|
+----------
+|
+--------
+|
+|
+ 💻 Languages 
+|
+ Python, SQL 
+|
+|
+ 🧠 Data Science & ML 
+|
+ TensorFlow, PyTorch, scikit-learn, pandas, NumPy 
+|
+|
+ 📊 Data Visualization 
+|
+ Matplotlib, Seaborn 
+|
+|
+ 🌐 Web Applications 
+|
+ Streamlit, Flask 
+|
+|
+ ☁️ Cloud Platforms 
+|
+ AWS, Google Cloud Platform 
+|
+|
+ 🔧 DevOps & Version Control 
+|
+ Docker, Git 
+|
+|
+ 🖥️ Development Environment 
+|
+ Jupyter Notebooks, VS Code 
+|
 
 ## 📫 Contact Me
 
@@ -26,10 +72,4 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 </div>
 
-## Featured Projects
 
-[![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
-
-[![Phishing Domain Detector Project](phishing-domain-detector-banner.svg)](https://github.com/Pablodeharo/Phishing-Domain-Detection)
-
-[![Property Price Prediction Project](property-price-prediction-banner.svg)](https://github.com/yourusername/property-price-prediction)
