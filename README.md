@@ -16,51 +16,26 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 ## 🛠 My Skills
 
-|
- Category 
-|
- Skills 
-|
-|
-----------
-|
---------
-|
-|
  💻 Languages 
-|
  Python, SQL 
-|
-|
+
  🧠 Data Science & ML 
-|
  TensorFlow, PyTorch, scikit-learn, pandas, NumPy 
-|
-|
+
  📊 Data Visualization 
-|
  Matplotlib, Seaborn 
-|
-|
+
  🌐 Web Applications 
-|
  Streamlit, Flask 
-|
-|
+
  ☁️ Cloud Platforms 
-|
- AWS, Google Cloud Platform 
-|
-|
+AWS, Google Cloud Platform 
+
  🔧 DevOps & Version Control 
-|
  Docker, Git 
-|
-|
+
  🖥️ Development Environment 
-|
  Jupyter Notebooks, VS Code 
-|
 
 ## 📫 Contact Me
 
