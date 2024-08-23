@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <style>
+    .banner { fill: #f0f0f0; }
+    .title { fill: #333; font-family: Arial, sans-serif; font-size: 24px; }
+    .description { fill: #666; font-family: Arial, sans-serif; font-size: 14px; }
+    .icon { fill: #ff6b6b; }
+  </style>
+  <a href="https://github.com/yourusername/malaria-detection">
+    <rect width="400" height="120" rx="10" class="banner"/>
+    <text x="70" y="45" class="title">🦟 Malaria Detection</text>
+    <text x="70" y="70" class="description">AI-powered malaria parasite detection</text>
+    <text x="70" y="90" class="description">from microscopic images</text>
+    <path d="M40,60 Q50,40 60,60 T80,60" stroke="#ff6b6b" stroke-width="4" fill="none"/>
+    <circle cx="40" cy="60" r="3" class="icon"/>
+    <circle cx="80" cy="60" r="3" class="icon"/>
+  </a>
+</svg>
