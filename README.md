@@ -26,3 +26,8 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 </div>
 
+## Featured Projects
+
+[![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
+
+[![Phishing Domain Detector Project](phishing-domain-detector-banner.svg)](https://github.com/Pablodeharo/Phishing-Domain-Detection)
