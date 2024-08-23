@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <style>
+    .banner { fill: #f0f0f0; }
+    .title { fill: #333; font-family: Arial, sans-serif; font-size: 22px; }
+    .description { fill: #666; font-family: Arial, sans-serif; font-size: 14px; }
+    .icon { fill: #3498db; }
+  </style>
+  <a href="https://github.com/yourusername/property-price-prediction">
+    <rect width="400" height="120" rx="10" class="banner"/>
+    <text x="70" y="40" class="title">🛰️ Property Price Prediction</text>
+    <text x="70" y="65" class="description">AI-powered property valuation using</text>
+    <text x="70" y="85" class="description">satellite imagery</text>
+    <path d="M30,50 L50,30 L70,50 L50,70 Z" class="icon"/>
+    <circle cx="50" cy="50" r="25" stroke="#3498db" stroke-width="2" fill="none"/>
+    <path d="M40,80 L60,80 M50,70 L50,90" stroke="#3498db" stroke-width="2"/>
+  </a>
+</svg>
