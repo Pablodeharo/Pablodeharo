@@ -31,3 +31,5 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 [![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
 
 [![Phishing Domain Detector Project](phishing-domain-detector-banner.svg)](https://github.com/Pablodeharo/Phishing-Domain-Detection)
+
+[![Property Price Prediction Project](property-price-prediction-banner.svg)](https://github.com/yourusername/property-price-prediction)
