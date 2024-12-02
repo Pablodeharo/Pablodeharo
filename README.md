@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 ## Featured Projects
 
-[![Fraud Detection Project](./fraud-detection-banner.svg)](https://github.com/Pablodeharo/Fraude-en-transacciones)
+[![Fraud Detection Project](https://raw.githubusercontent.com/Pablodeharo/REPO/main/fraud-detection-banner.svg)](https://github.com/Pablodeharo/Fraude-en-transacciones)
 
 [![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
 
