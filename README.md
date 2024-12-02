@@ -8,13 +8,14 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 ## Featured Projects
 
-[![Fraud Detection Project](https://raw.githubusercontent.com/Pablodeharo/REPO/main/fraud-detection-ml-banner.png)](https://github.com/Pablodeharo/Fraude-en-transacciones)
+- [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
+  
+- [Malaria Detection Project](https://github.com/Pablodeharo/Malaria-Detector)
+  
+- [Phishing Domain Detector Project](https://github.com/Pablodeharo/Phishing-Domain-Detection)
+  
+- [Property Price Prediction Project](https://github.com/yourusername/property-price-prediction)
 
-[![Malaria Detection Project](malaria-detection-banner.svg)](https://github.com/Pablodeharo/Malaria-Detector)
-
-[![Phishing Domain Detector Project](phishing-domain-detector-banner.svg)](https://github.com/Pablodeharo/Phishing-Domain-Detection)
-
-[![Property Price Prediction Project](property-price-prediction-banner.svg)](https://github.com/yourusername/property-price-prediction)
 
 ## 🛠 My Skills
 
