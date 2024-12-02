@@ -6,12 +6,14 @@
 
 Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate about uncovering insights from data and developing innovative AI solutions.
 
-## Análisis de Anomalías en Transacciones Financieras
+## Featured Projects
 
 - [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
 - [Enlace al Proyecto en Notion](https://tiny-citrine-a6e.notion.site/An-lisis-de-Anomal-as-en-Transacciones-Financieras-utilizando-Isolation-Forest-14ec36fd2b59807eaafffa908a5ab061)
 - [Visita mi perfil de LinkedIn](https://www.linkedin.com/in/pablo-de-haro-pishoudt-0871972b6/)
-  
+
+##  Other Projects
+
 - [Malaria Detection Project](https://github.com/Pablodeharo/Malaria-Detector)
   
 - [Phishing Domain Detector Project](https://github.com/Pablodeharo/Phishing-Domain-Detection)
