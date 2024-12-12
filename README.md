@@ -8,8 +8,11 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 
 ## Featured Projects
 
-- [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
 - [Sentiment Analysis with BERT](https://github.com/Pablodeharo/Sentiment-Analysis-with-BERT-Light)
+
+  
+- [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
+
 
 ## 🛠 My Skills
 
