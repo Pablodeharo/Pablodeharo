@@ -9,17 +9,7 @@ Welcome to my GitHub profile. I'm a Data Scientist and AI Specialist passionate 
 ## Featured Projects
 
 - [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
-- [Enlace al Proyecto en Notion](https://tiny-citrine-a6e.notion.site/An-lisis-de-Anomal-as-en-Transacciones-Financieras-utilizando-Isolation-Forest-14ec36fd2b59807eaafffa908a5ab061)
-- [Visita mi perfil de LinkedIn](https://www.linkedin.com/in/pablo-de-haro-pishoudt-0871972b6/)
-
-##  Other Projects
-
-- [Malaria Detection Project](https://github.com/Pablodeharo/Malaria-Detector)
-  
-- [Phishing Domain Detector Project](https://github.com/Pablodeharo/Phishing-Domain-Detection)
-  
-- [Property Price Prediction Project](https://github.com/yourusername/property-price-prediction)
-
+- [sentiment Analysis with BERT](https://github.com/Pablodeharo/Sentiment-Analysis-with-BERT-Light)
 
 ## 🛠 My Skills
 
