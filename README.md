@@ -4,11 +4,9 @@
 
 Hey there, I'm Pablo de Haro! 👋
 I’ve spent years working in real estate and the automotive sector, but my love for technology and innovation pushed me to start a new adventure in Data Science and Artificial Intelligence.
-
 Now, I’m all about turning data into insights—helping businesses make smarter decisions by analyzing and understanding the stories hidden in their data.
 
 I mix my business experience with my technical skills in data science to solve real-world problems. I’m also a huge fan of staying on top of the latest tools and tech in the data world—there’s always something new to learn!
-
 In short, I’m here to tackle the challenges of the digital age with creative, data-driven solutions.
 
 ## Featured Projects
