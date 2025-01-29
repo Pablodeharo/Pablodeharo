@@ -19,6 +19,10 @@ In short, I’m here to tackle the challenges of the digital age with creative, 
 
 - [Bike Store Relational DataBase SQL](https://github.com/Pablodeharo/Bike-Store-Relational-DB)
 
+## Current proyect in proces (Take a Look)
+
+- [LLM Socrates](https://github.com/Pablodeharo/LLM-Socrates)
+
 ## 🛠 My Skills
 
  💻 Languages 
