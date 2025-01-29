@@ -21,7 +21,7 @@ In short, I’m here to tackle the challenges of the digital age with creative, 
 
 ## Current proyect in proces (Take a Look)
 
-- [LLM Socrates](https://github.com/Pablodeharo/LLM-Socrates)
+- [LLM Socrates](https://github.com/Pablodeharo/Socrates)
 
 ## 🛠 My Skills
 
