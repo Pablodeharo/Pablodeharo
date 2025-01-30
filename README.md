@@ -5,7 +5,7 @@ Now, I’m all about turning data into insights—helping businesses make smarte
 
 ## Current proyect in proces (Take a Look)
 
-- [LLM Socrates]([https://github.com/Pablodeharo/Socrates](https://github.com/Pablodeharo/Socrates))
+- [LLM Socrates](https://github.com/Pablodeharo/Socrates)
 
 ## Featured Projects
 
