@@ -5,7 +5,7 @@ Now, I’m all about turning data into insights—helping businesses make smarte
 
 ## Current proyect in proces (Take a Look)
 
-- [LLM Socrates](https://github.com/Pablodeharo/Socrates)
+- [AI Agent Socrates](https://github.com/Pablodeharo/ReactAgent)
 
 ## Featured Projects
 
@@ -20,10 +20,10 @@ Now, I’m all about turning data into insights—helping businesses make smarte
 ## 🛠 My Skills
 
  💻 Languages 
- Python, SQL 
+ Python, SQL, C 
 
  🧠 Data Science & ML 
- TensorFlow, PyTorch, scikit-learn, pandas, NumPy 
+ TensorFlow, PyTorch, scikit-learn, pandas, NumPy, LangChain
 
  📊 Data Visualization 
  Matplotlib, Seaborn 
