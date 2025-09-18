@@ -1,7 +1,6 @@
 Hey there, I'm Pablo de Haro! 👋
-
-I’ve spent years working in real estate and the automotive sector, but my love for technology and innovation pushed me to start a new adventure in Data Science and Artificial Intelligence.
-Now, I’m all about turning data into insights—helping businesses make smarter decisions by analyzing and understanding the stories hidden in their data.
+From real estate to automotive, and now deep into Data Science and AI agent development—my journey has been all about solving complex problems. 
+Today I'm passionate about building intelligent agents that can reason through challenges, analyze data for actionable insights, and autonomously help businesses make smarter decisions.
 
 ## Current proyect in proces (Take a Look)
 
