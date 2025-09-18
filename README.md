@@ -2,9 +2,9 @@ Hey there, I'm Pablo de Haro! 👋
 From real estate to automotive, and now deep into Data Science and AI agent development—my journey has been all about solving complex problems. 
 Today I'm passionate about building intelligent agents that can reason through challenges, analyze data for actionable insights, and autonomously help businesses make smarter decisions.
 
-## Current proyect in proces (Take a Look)
+## Current proyect in proces
 
-- [AI Agent Socrates](https://github.com/Pablodeharo/Socrates-React-Agent)
+- [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
 
 ## Featured Projects
 
