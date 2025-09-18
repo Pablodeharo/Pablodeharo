@@ -5,7 +5,7 @@ Now, I’m all about turning data into insights—helping businesses make smarte
 
 ## Current proyect in proces (Take a Look)
 
-- [AI Agent Socrates](https://github.com/Pablodeharo/ReactAgent)
+- [AI Agent Socrates](https://github.com/Pablodeharo/Socrates-React-Agent)
 
 ## Featured Projects
 
