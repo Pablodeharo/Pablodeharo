@@ -4,9 +4,11 @@ Today I'm passionate about building intelligent agents that can reason through c
 
 ## Current proyect in proces
 
-- [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
+- [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
 
 ## Featured Projects
+
+- [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
 
 - [Sentiment Analysis with BERT](https://github.com/Pablodeharo/Sentiment-Analysis-with-BERT-Light)
 
@@ -28,7 +30,7 @@ Today I'm passionate about building intelligent agents that can reason through c
  Matplotlib, Seaborn 
 
  🌐 Web Applications 
- Streamlit, Flask 
+ Streamlit, Flask, Django
 
  ☁️ Cloud Platforms 
 AWS, Google Cloud Platform 
