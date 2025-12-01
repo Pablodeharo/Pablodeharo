@@ -21,7 +21,7 @@ Today I'm passionate about building intelligent agents that can reason through c
 ## 🛠 My Skills
 
  💻 Languages 
- Python, SQL, C 
+ Python, C 
 
  🧠 Data Science & ML 
  TensorFlow, PyTorch, scikit-learn, pandas, NumPy, LangChain
