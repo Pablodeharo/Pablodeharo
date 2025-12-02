@@ -23,22 +23,22 @@ Today I'm passionate about building intelligent agents that can reason through c
 ## 🛠 My Skills
 
 ### 💻 Programming Languages
-🐍 Python | ⚙️ C | 🔗 Solidity
+Python |  C |  Solidity
 
 ### 🧠 Data Science & ML
-📊 TensorFlow | 🤖 PyTorch | 📈 scikit-learn | 🐼 pandas | 🔢 NumPy 
+TensorFlow | PyTorch | scikit-learn | pandas | NumPy 
 
 ### 🤖 AI Agentic
-🧠 LangChain | 🤗 Hugging Face | 💾 ChromaDB
+LangChain | 🤗 Hugging Face | ChromaDB
 
 ### 📊 Data Visualization
-📉 Matplotlib | 📊 Seaborn
+Matplotlib | Seaborn
 
 ### 🌐 Web Applications
 🌟 Streamlit | 🍶 Flask | 🏗 Django
 
 ### 🔧 DevOps & Version Control
-🐳 Docker | 🧰 Git | 🐧 Linux
+🧰 Git | 🐧 Linux
 
 
 ## 📫 Contact Me
