@@ -6,6 +6,8 @@ Today I'm passionate about building intelligent agents that can reason through c
 
 - [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
 
+- [ VolthWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
+
 ## Featured Projects
 
 - [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
@@ -20,26 +22,24 @@ Today I'm passionate about building intelligent agents that can reason through c
 
 ## 🛠 My Skills
 
- 💻 Languages 
- Python, C 
+### 💻 Programming Languages
+🐍 Python | ⚙️ C | 🔗 Solidity
 
- 🧠 Data Science & ML 
- TensorFlow, PyTorch, scikit-learn, pandas, NumPy, LangChain
+### 🧠 Data Science & ML
+📊 TensorFlow | 🤖 PyTorch | 📈 scikit-learn | 🐼 pandas | 🔢 NumPy 
 
- 📊 Data Visualization 
- Matplotlib, Seaborn 
+### 🤖 AI Agentic
+🧠 LangChain | 🤗 Hugging Face | 💾 ChromaDB
 
- 🌐 Web Applications 
- Streamlit, Flask, Django
+### 📊 Data Visualization
+📉 Matplotlib | 📊 Seaborn
 
- ☁️ Cloud Platforms 
-AWS, Google Cloud Platform 
+### 🌐 Web Applications
+🌟 Streamlit | 🍶 Flask | 🏗 Django
 
- 🔧 DevOps & Version Control 
- Docker, Git 
+### 🔧 DevOps & Version Control
+🐳 Docker | 🧰 Git | 🐧 Linux
 
- 🖥️ Development Environment 
- Jupyter Notebooks, VS Code 
 
 ## 📫 Contact Me
 
