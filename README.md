@@ -1,6 +1,8 @@
 Hey there, I'm Pablo de Haro! 👋
-From real estate to automotive, and now deep into Data Science and AI agent development—my journey has been all about solving complex problems. 
-Today I'm passionate about building intelligent agents that can reason through challenges, analyze data for actionable insights, and autonomously help businesses make smarter decisions.
+
+My journey spans from real estate and automotive to the world of Data Science, Machine Learning, and most recently AI agent development — building systems capable of analyzing data, reasoning, and making autonomous decisions.
+
+I'm also a student at Campus 42, where I develop low-level C projects, algorithms, and Linux system administration from scratch.
 
 ## Current proyect in proces
 
@@ -19,6 +21,22 @@ Today I'm passionate about building intelligent agents that can reason through c
 
 
 - [Bike Store Relational DataBase SQL](https://github.com/Pablodeharo/Bike-Store-Relational-DB)
+
+🎓 Campus 42 Projects
+
+Projects completed during my training in low-level programming, algorithms, and system administration:
+
+🔧 Libft — Custom implementation of the standard C library.
+(Repo coming soon)
+
+🖨 ft_printf — Reimplementation of printf with buffer handling, flags, and type formatting.
+(Repo coming soon)
+
+📄 get_next_line — Efficient line-by-line file reading using dynamic memory.
+(Repo coming soon)
+
+🐧 Born2beroot — Linux system administration and security (Debian VM setup).
+(Repo coming soon)
 
 ## 🛠 My Skills
 
