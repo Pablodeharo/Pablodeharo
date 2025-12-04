@@ -6,7 +6,9 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 ## Current proyect in proces
 
-- [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
+- [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor]
+  Predictive ML model for EV resale value.
+  👉(https://github.com/Pablodeharo/VoltWorth)
 
 - [ VolthWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
 
