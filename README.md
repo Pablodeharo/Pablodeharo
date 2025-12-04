@@ -22,21 +22,15 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 - [Bike Store Relational DataBase SQL](https://github.com/Pablodeharo/Bike-Store-Relational-DB)
 
-🎓 Campus 42 Projects
+## 🎓 Campus 42 — My Progress  
+I'm currently developing low-level and system-focused projects at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration from scratch.
 
-Projects completed during my training in low-level programming, algorithms, and system administration:
+Completed Projects (Private Repositories, following 42 rules):
 
-🔧 Libft — Custom implementation of the standard C library.
-(Repo coming soon)
-
-🖨 ft_printf — Reimplementation of printf with buffer handling, flags, and type formatting.
-(Repo coming soon)
-
-📄 get_next_line — Efficient line-by-line file reading using dynamic memory.
-(Repo coming soon)
-
-🐧 Born2beroot — Linux system administration and security (Debian VM setup).
-(Repo coming soon)
+- 🔧 Libft — Reimplementation of essential C standard library functions  
+- 🖨 ft_printf — Custom printf with variadic functions, parsing, and formatted output  
+- 📄 get_next_line — Efficient file reading using dynamic memory  
+- 🐧 Born2beroot — Linux system administration and security on Debian 
 
 ## 🛠 My Skills
 
