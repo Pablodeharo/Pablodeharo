@@ -10,6 +10,8 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 - [ VolthWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
 
+- [LLM-RaG - Conversational AI with RAG](https://github.com/Pablodeharo/LLM-RaG-socratico)
+
 ## Featured Projects
 
 - [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
