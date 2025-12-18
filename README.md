@@ -12,7 +12,7 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 - [🤖📚 LLM-RaG - Conversational AI with RAG](https://github.com/Pablodeharo/LLM-RaG-socratico)
 
-- [React Agent - DB Asistence](https://github.com/Pablodeharo/llm-relational-db)
+- [🗄️ LLM Agent for Relational Databases](https://github.com/Pablodeharo/llm-relational-db)
 
 ## Featured Projects
 
