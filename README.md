@@ -6,13 +6,14 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 ## Current proyect in proces
 
+- [🗄️ LLM Agent for Relational Databases](https://github.com/Pablodeharo/llm-relational-db)
+
 - [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
 
 - [⚡📊 VoltWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
 
 - [🤖📚 LLM-RaG - Conversational AI with RAG](https://github.com/Pablodeharo/LLM-RaG-socratico)
 
-- [🗄️ LLM Agent for Relational Databases](https://github.com/Pablodeharo/llm-relational-db)
 
 ## Featured Projects
 
