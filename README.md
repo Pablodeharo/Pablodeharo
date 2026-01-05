@@ -14,21 +14,8 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 - [🤖📚 LLM-RaG - Conversational AI with RAG](https://github.com/Pablodeharo/LLM-RaG-socratico)
 
-
-## Featured Projects
-
-- [ReAct Agent - Philosophical AI Assistant](https://github.com/Pablodeharo/Socrates-React-Agent)
-
-- [Sentiment Analysis with BERT](https://github.com/Pablodeharo/Sentiment-Analysis-with-BERT-Light)
-
-  
-- [Fraud Detection Project](https://github.com/Pablodeharo/Fraude-en-transacciones)
-
-
-- [Bike Store Relational DataBase SQL](https://github.com/Pablodeharo/Bike-Store-Relational-DB)
-
 ## 🎓 Campus 42 — My Progress  
-I'm currently developing low-level and system-focused projects at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration from scratch.
+Developing at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration.
 
 Completed Projects (Private Repositories, following 42 rules):
 
