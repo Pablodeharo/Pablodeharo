@@ -7,8 +7,7 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 ## Current proyect in proces
 
 - [🗄️ ReActSQL Agent](https://github.com/Pablodeharo/llm-relational-db/tree/feature/schema-memory-refactor)
-- https://github.com/Pablodeharo/llm-relational-db/tree/feature/schema-memory-refactor
-https://github.com/Pablodeharo/llm-relational-db
+
 - [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
 
 - [⚡📊 VoltWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
