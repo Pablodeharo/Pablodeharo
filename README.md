@@ -4,7 +4,6 @@ My journey spans from real estate and automotive to the world of Data Science, M
 
 I'm also a student at Campus 42, where I develop low-level C projects, algorithms, and Linux system administration from scratch.
 
-## 🚀 Current Projects in Progress
 
 ## 🚀 Current Projects in Progress
 
