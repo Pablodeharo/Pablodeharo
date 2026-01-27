@@ -4,17 +4,25 @@ My journey spans from real estate and automotive to the world of Data Science, M
 
 I'm also a student at Campus 42, where I develop low-level C projects, algorithms, and Linux system administration from scratch.
 
-## Current proyect in proces
+## 🚀 Current Projects in Progress
 
-- [LLM-RaG - ConversationalAgent](https://github.com/Pablodeharo/conversational-agent)
+## 🚀 Current Projects in Progress
 
-- [🗄️ ReActSQL Agent](https://github.com/Pablodeharo/llm-relational-db/tree/feature/schema-memory-refactor)
+- [🤖 LLM-RAG Conversational Agent](https://github.com/Pablodeharo/conversational-agent)  
+  Modular AI agent architecture combining Retrieval-Augmented Generation, reasoning graphs, and memory for data-driven conversations.  
+  _Python · LangChain · FAISS · LLMs_
 
-- [🚗⚡ VoltWorth - Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)
+- [🗄️ ReActSQL Agent](https://github.com/Pablodeharo/llm-relational-db/tree/feature/schema-memory-refactor)  
+  Agent capable of reasoning over relational databases using the ReAct pattern, dynamic schema memory, and tool execution.  
+  _Python · SQL · LLMs · Agentic Reasoning_
 
-- [⚡📊 VoltWorth - ML Model](https://github.com/Pablodeharo/Voltworth-core)
+- [🚗⚡ VoltWorth — Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)  
+  End-to-end ML application for predicting EV resale value, from data preprocessing to user-facing prediction interface.  
+  _Python · ML · Streamlit_
 
-- [🤖📚 LLM-RaG - Conversational AI with RAG](https://github.com/Pablodeharo/LLM-RaG-socratico)
+- [⚡📊 VoltWorth — Core ML Model](https://github.com/Pablodeharo/Voltworth-core)  
+  Standalone machine learning pipeline focused on feature engineering, model training, and evaluation for EV price prediction.  
+  _scikit-learn · pandas · NumPy_
 
 ## 🎓 Campus 42 — My Progress  
 Developing at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration.
@@ -35,7 +43,7 @@ Python |  C |  Solidity
 TensorFlow | PyTorch | scikit-learn | pandas | NumPy 
 
 ### 🤖 AI Agentic
-LangChain | 🤗 Hugging Face | ChromaDB
+LangChain | RAG | Vector Databases (ChromaDB) | Tool Calling
 
 ### 📊 Data Visualization
 Matplotlib | Seaborn
@@ -44,7 +52,7 @@ Matplotlib | Seaborn
 🌟 Streamlit | 🍶 Flask | 🏗 Django
 
 ### 🔧 DevOps & Version Control
-🧰 Git | 🐧 Linux
+Git | Linux | Virtual Environments | Project Structuring
 
 
 ## 📫 Contact Me
