@@ -17,7 +17,7 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 - [🚗⚡ VoltWorth — Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)  
   End-to-end ML application for predicting EV resale value, from data preprocessing to user-facing prediction interface.  
-  _Python · ML · Streamlit_
+  _Python · ML · Django_
 
 - [⚡📊 VoltWorth — Core ML Model](https://github.com/Pablodeharo/Voltworth-core)  
   Standalone machine learning pipeline focused on feature engineering, model training, and evaluation for EV price prediction.  
