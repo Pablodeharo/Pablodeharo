@@ -6,6 +6,9 @@ I'm also a student at Campus 42, where I develop low-level C projects, algorithm
 
 
 ## 🚀 Current Projects in Progress
+- [🛡️ MCP-SecRAG Agent](https://github.com/Pablodeharo/rag-assistant)
+  Cybersecurity-focused agent architecture combining RAG, MCP-based tool orchestration, and regulatory reasoning over incident management frameworks.
+  _Python · FastAPI · Elasticsearch · MCP · LLMs · Agentic Security
 
 - [🤖 LLM-RAG Conversational Agent](https://github.com/Pablodeharo/conversational-agent)  
   Modular AI agent architecture combining Retrieval-Augmented Generation, reasoning graphs, and memory for data-driven conversations.  
