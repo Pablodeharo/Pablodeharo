@@ -1,30 +1,21 @@
-Hey there, I'm Pablo de Haro! 👋
+👋 Hey there, I'm Pablo de Haro
 
-My journey spans from real estate and automotive to the world of Data Science, Machine Learning, and most recently AI agent development — building systems capable of analyzing data, reasoning, and making autonomous decisions.
+AI Engineer & Data Scientist with a strong foundation in machine learning, data analysis, and autonomous AI agents. My journey spans from real estate & automotive to advanced AI systems capable of reasoning, retrieving context, and executing tools for real-world applications.
 
-I'm also a student at Campus 42, where I develop low-level C projects, algorithms, and Linux system administration from scratch.
+I’m currently expanding my expertise in RAG architectures, vector databases, and agentic AI.
 
 
-## 🚀 Current Projects in Progress
-- [🛡️ MCP-SecRAG Agent](https://github.com/Pablodeharo/rag-assistant)
-  Cybersecurity-focused agent architecture combining RAG, MCP-based tool orchestration, and regulatory reasoning over incident management frameworks.
-  _Python · FastAPI · Elasticsearch · MCP · LLMs · Agentic Security
+## 🚀 Flagship Projects
 
-- [🤖 LLM-RAG Conversational Agent](https://github.com/Pablodeharo/conversational-agent)  
-  Modular AI agent architecture combining Retrieval-Augmented Generation, reasoning graphs, and memory for data-driven conversations.  
-  _Python · LangChain · FAISS · LLMs_
+- [🛡️ MCP-SecRAG Agent](https://github.com/Pablodeharo/mcp-rag-server)
+  Cybersecurity-focused AI agent that integrates:
+  - RAG-based document retrieval for contextual reasoning
+  - MCP tool orchestration to automate incident analysis
+  - Regulatory reasoning (ENS, RGPD, NIS2)
 
-- [🗄️ ReActSQL Agent](https://github.com/Pablodeharo/llm-relational-db/tree/feature/schema-memory-refactor)  
-  Agent capable of reasoning over relational databases using the ReAct pattern, dynamic schema memory, and tool execution.  
-  _Python · SQL · LLMs · Agentic Reasoning_
+  Technologies:
+  _Python · FastMCP· Elasticsearch · MCP-Inspector · LLMs · Agentic Security
 
-- [🚗⚡ VoltWorth — Electric Vehicle Resale Value Predictor](https://github.com/Pablodeharo/VoltWorth)  
-  End-to-end ML application for predicting EV resale value, from data preprocessing to user-facing prediction interface.  
-  _Python · ML · Django_
-
-- [⚡📊 VoltWorth — Core ML Model](https://github.com/Pablodeharo/Voltworth-core)  
-  Standalone machine learning pipeline focused on feature engineering, model training, and evaluation for EV price prediction.  
-  _scikit-learn · pandas · NumPy_
 
 ## 🎓 Campus 42 — My Progress  
 Developing at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration.
