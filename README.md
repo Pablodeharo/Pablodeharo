@@ -7,6 +7,15 @@ I’m currently expanding my expertise in RAG architectures, vector databases, a
 
 ## 🚀 Flagship Projects
 
+- [🏛️ SocraticGraph Agent](https://github.com/Pablodeharo/socraticgraph)
+  A Socratic AI agent built on the complete works of Plato, designed to guide users through dialectical reasoning instead of direct answers.
+  - Hybrid RAG pipeline (semantic kNN + BM25) over 3 specialized Elasticsearch indices.
+  - Orchestrated with LangGraph for stateful multi-node philosophical workflows.
+  - Decoupled prompt engineering using Markdown templates and Pydantic validation.
+
+  Technologies:
+  _Python 3.12 · LangGraph · Elasticsearch · Pydantic v2 · Poetry · Scrapy_
+
 - [🛡️ MCP-SecRAG Agent](https://github.com/Pablodeharo/mcp-rag-server)
   Cybersecurity-focused AI agent that integrates:
   - RAG-based document retrieval for contextual reasoning
@@ -36,7 +45,7 @@ Python |  C |  Solidity
 TensorFlow | PyTorch | scikit-learn | pandas | NumPy 
 
 ### 🤖 AI Agentic
-LangChain | RAG | Vector Databases (ChromaDB) | Tool Calling
+LangChain | LangGraph | RAG | Elasticsearch | Vector Databases (ChromaDB) | Tool Calling
 
 ### 📊 Data Visualization
 Matplotlib | Seaborn
@@ -45,8 +54,7 @@ Matplotlib | Seaborn
 🌟 Streamlit | 🍶 Flask | 🏗 Django
 
 ### 🔧 DevOps & Version Control
-Git | Linux | Virtual Environments | Project Structuring
-
+Git | Linux | Poetry | Virtual Environments | Project Structuring
 
 ## 📫 Contact Me
 
