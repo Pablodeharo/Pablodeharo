@@ -1,69 +1,79 @@
-👋 Hey there, I'm Pablo de Haro
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1D9E75&height=180§ion=header&text=Pablo%20de%20Haro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Agentic%20AI&descAlignY=58&descSize=16" />
+</p>
 
-AI Engineer & Data Scientist with a strong foundation in machine learning, data analysis, and autonomous AI agents. My journey spans from real estate & automotive to advanced AI systems capable of reasoning, retrieving context, and executing tools for real-world applications.
+> 🔍 **Open to AI/ML Engineer & Data Scientist roles** — Spain & internationally
 
-I’m currently expanding my expertise in RAG architectures, vector databases, and agentic AI.
+---
 
+I was born in Ghent, Belgium, and moved to Spain at 14. Growing up between two cultures taught me to adapt fast, communicate across contexts, and read what people actually need — skills I now apply to how I build AI systems.
+
+Before moving into AI, I spent years in competitive commercial environments: B2B fleet sales, real estate advisory on the Costa del Sol, and customer-facing roles at Málaga Airport. That background gives me something technical profiles often lack: a real understanding of business impact and user needs.
+
+I trained in Data Science at **4GeeksAcademy** and went deep into agentic AI — LangChain, LangGraph, LLM integration, and vector databases. I build systems where intelligence is the core of the product, not just a feature.
+
+---
 
 ## 🚀 Flagship Projects
 
-- [🏛️ SocraticGraph Agent](https://github.com/Pablodeharo/socraticgraph)
-  A Socratic AI agent built on the complete works of Plato, designed to guide users through dialectical reasoning instead of direct answers.
-  - Hybrid RAG pipeline (semantic kNN + BM25) over 3 specialized Elasticsearch indices.
-  - Orchestrated with LangGraph for stateful multi-node philosophical workflows.
-  - Decoupled prompt engineering using Markdown templates and Pydantic validation.
+### 🏛️ [SocraticGraph Agent](https://github.com/Pablodeharo/socraticgraph)
+A Socratic AI agent trained on the complete works of Plato, designed to guide users through dialectical reasoning instead of giving direct answers.
 
-  Technologies:
-  _Python 3.12 · LangGraph · Elasticsearch · Pydantic v2 · Poetry · Scrapy_
+- Hybrid RAG pipeline (semantic kNN + BM25) over 3 specialized Elasticsearch indices
+- Orchestrated with LangGraph for stateful multi-node philosophical workflows
+- Decoupled prompt engineering using Markdown templates and Pydantic validation
 
-- [🛡️ MCP-SecRAG Agent](https://github.com/Pablodeharo/mcp-rag-server)
-  Cybersecurity-focused AI agent that integrates:
-  - RAG-based document retrieval for contextual reasoning
-  - MCP tool orchestration to automate incident analysis
-  - Regulatory reasoning (ENS, RGPD, NIS2)
+`Python 3.12` `LangGraph` `Elasticsearch` `Pydantic v2` `Poetry` `Scrapy`
 
-  Technologies:
-  _Python · FastMCP· Elasticsearch · MCP-Inspector · LLMs · Agentic Security
+---
 
+### 🛡️ [MCP-SecRAG Agent](https://github.com/Pablodeharo/mcp-rag-server)
+Cybersecurity-focused AI agent combining RAG-based retrieval with MCP tool orchestration.
 
-## 🎓 Campus 42 — My Progress  
-Developing at Campus 42, where I work on C programming, memory management, algorithms, and Linux system administration.
+- Contextual reasoning over security documents
+- Automated incident analysis via MCP tool orchestration
+- Regulatory reasoning aligned with ENS, RGPD, and NIS2 frameworks
 
-Completed Projects (Private Repositories, following 42 rules):
+`Python` `FastMCP` `Elasticsearch` `MCP-Inspector` `LangChain`
 
-- 🔧 Libft — Reimplementation of essential C standard library functions  
-- 🖨 ft_printf — Custom printf with variadic functions, parsing, and formatted output  
-- 📄 get_next_line — Efficient file reading using dynamic memory  
-- 🐧 Born2beroot — Linux system administration and security on Debian 
+---
 
-## 🛠 My Skills
+## 🎓 Low-level Programming — Campus 42
 
-### 💻 Programming Languages
-Python |  C |  Solidity
+Participated in the intensive **la piscine** selection process and completed core projects applying C programming, memory management, and Linux system administration in a peer-to-peer learning environment.
 
-### 🧠 Data Science & ML
-TensorFlow | PyTorch | scikit-learn | pandas | NumPy 
+| Project | Description |
+|---|---|
+| **Libft** | Reimplementation of essential C standard library functions |
+| **ft_printf** | Custom printf with variadic functions and formatted output |
+| **get_next_line** | Efficient file reading using dynamic memory |
+| **Born2beroot** | Linux system administration and security on Debian |
 
-### 🤖 AI Agentic
-LangChain | LangGraph | RAG | Elasticsearch | Vector Databases (ChromaDB) | Tool Calling
+---
 
-### 📊 Data Visualization
-Matplotlib | Seaborn
+## 🛠 Skills
 
-### 🌐 Web Applications
-🌟 Streamlit | 🍶 Flask | 🏗 Django
+### 🧠 AI & Machine Learning
+`LangChain` `LangGraph` `RAG` `LLM Integration` `Prompt Engineering`
+`TensorFlow` `PyTorch` `scikit-learn` `Elasticsearch` `ChromaDB`
 
-### 🔧 DevOps & Version Control
-Git | Linux | Poetry | Virtual Environments | Project Structuring
+### 💻 Programming & Data
+`Python` `C` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-## 📫 Contact Me
+### 🌐 Web & Deployment
+`Streamlit` `Flask` `Django` `Docker` `Git` `Linux` `Poetry`
+
+### ☁️ Cloud
+`AWS Certified Cloud Practitioner`
+
+---
+
+## 📫 Contact
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-de-haro-pishoudt-0871972b6/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+34603189838)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodeharo872@gmail.com)
 
 </div>
-
-
