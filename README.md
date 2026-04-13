@@ -16,17 +16,6 @@ I trained in Data Science at **4GeeksAcademy** and went deep into agentic AI —
 
 ## 🚀 Flagship Projects
 
-### 🏛️ [SocraticGraph Agent](https://github.com/Pablodeharo/socraticgraph)
-A Socratic AI agent trained on the complete works of Plato, designed to guide users through dialectical reasoning instead of giving direct answers.
-
-- Hybrid RAG pipeline (semantic kNN + BM25) over 3 specialized Elasticsearch indices
-- Orchestrated with LangGraph for stateful multi-node philosophical workflows
-- Decoupled prompt engineering using Markdown templates and Pydantic validation
-
-`Python 3.12` `LangGraph` `Elasticsearch` `Pydantic v2` `Poetry` `Scrapy`
-
----
-
 ### 🛡️ [MCP-SecRAG Agent](https://github.com/Pablodeharo/mcp-rag-server)
 Cybersecurity-focused AI agent combining RAG-based retrieval with MCP tool orchestration.
 
@@ -37,6 +26,15 @@ Cybersecurity-focused AI agent combining RAG-based retrieval with MCP tool orche
 `Python` `FastMCP` `Elasticsearch` `MCP-Inspector` `LangChain`
 
 ---
+
+### 🏛️ [SocraticGraph Agent](https://github.com/Pablodeharo/socraticgraph)
+A Socratic AI agent trained on the complete works of Plato, designed to guide users through dialectical reasoning instead of giving direct answers.
+
+- Hybrid RAG pipeline (semantic kNN + BM25) over 3 specialized Elasticsearch indices
+- Orchestrated with LangGraph for stateful multi-node philosophical workflows
+- Decoupled prompt engineering using Markdown templates and Pydantic validation
+
+`Python 3.12` `LangGraph` `Elasticsearch` `Pydantic v2` `Poetry` `Scrapy`
 
 ## 🎓 Low-level Programming — Campus 42
 
